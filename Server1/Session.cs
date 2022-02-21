@@ -7,6 +7,7 @@ using System.Net.Sockets;
 
 namespace Server1
 {
+
     class Session
     {
         protected Socket socket;
